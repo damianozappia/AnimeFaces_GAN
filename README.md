@@ -12,4 +12,6 @@ This project has been developed for the Vision and Perception course at Sapienza
 
 The implementation details and choices can be found in [powerpoint presentation file](FinalProjectPresentation_Maselli_Zappia.pptx)
 
+The code is available in the [python notebook](LSGAN_Anime_Faces_Generation.ipynb) above.
+
 
